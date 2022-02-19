@@ -8,3 +8,6 @@
 jflnjnsn/jflnjnsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+I use var extensively in place of string, int, or bool.
+My question is:
+If I declare var number = "", may I later assign number = 2; ?
